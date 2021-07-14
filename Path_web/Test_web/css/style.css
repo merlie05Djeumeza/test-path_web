@@ -1,0 +1,318 @@
+body{
+	background-color: silver;
+	width: 75em;	
+}
+
+.i1{
+	width: 70em;
+	height: 25em;
+	margin-right: 100px;
+}
+
+.a1,.a2,.a3,.a4{
+	color: white;
+	padding-left: 15px;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-family: "Cambria Math";
+	padding-top: 10em;
+}
+
+
+.box1{
+	width: 70em;
+	height: 2em;
+	text-transform: capitalize;
+	background-color: blue;
+	opacity: 0.7;
+	margin-right: 100px;
+	text-align: center;
+	padding-top: 8px;
+}
+
+.i2{
+
+	width: 9em;
+	height: 7.75em;
+	float: left;
+}
+
+.P{
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 5px;
+	font-size: 22px;
+}
+
+
+
+.box2{
+	width: 15em;
+	height: 67em;
+	margin-left: 41em;
+	margin-top: 5px;
+	font-size: 22px;
+	text-align: justify;
+
+}
+
+
+.b1{
+
+	height: 2.5em;
+	color: white;
+	font-size: 14px;
+	padding-left: 60em;
+	background-color: rgb(90,120,200);
+	
+	
+}
+
+.box3{
+
+	width: 65em;
+	height: 23em;
+	background-color: rgb(60,100,250);
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+.box{
+	
+	display: flex;
+	flex-direction: row;
+	margin-top: 5em;
+
+}
+
+.fin a{
+
+	text-decoration: none;
+	width: 9em;
+	height: 1em;
+	color: white;
+	background-color: rgb(60,100,250);
+	margin-left: 3em;
+}
+
+ul{
+	text-decoration: none;
+	list-style: none;
+	line-height: 1.3em;
+	font-size: 18px;
+
+}
+
+li::before {	
+
+	text-decoration: none;
+	content: "• ";
+	color: white;
+}
+
+
+/*deuxieme page, mesCours*/
+
+.box22{
+	width: 15em;
+	height: 48em;
+	margin-left: 41em;
+	margin-top: 5px;
+	text-align: justify;
+	font-size: 22px;
+}
+
+.titre{
+	font-size: 14px;
+	padding-left: 90px;
+}
+
+
+.b{
+	height: 3em;
+	color: white;
+	font-size: 14px;
+	padding-left: 58em;
+	background-color: rgb(90,120,200);
+}
+
+.fin1 a{
+
+	text-decoration: none;
+	width: 9em;
+	height: 1em;
+	color: white;
+	background-color: rgb(60,100,250);
+	margin-left: 3em;
+}
+
+/*troisieme page*/
+
+.I2{
+
+	width: 7em;
+	height: 9em;
+	float: left;
+}
+
+.Box1{
+	width: 70em;
+	height: 3em;
+	text-transform: capitalize;
+	background-color: blue;
+	opacity: 0.7;
+	margin-right: 100px;
+	margin-bottom: 3em;
+	text-align: center;
+	padding-top: 8px;
+}
+
+.contact{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 26em;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 22px;
+
+}
+
+.theme2{
+	padding-top: 6px;
+	text-align: center;
+	margin-bottom: 1em;
+
+}
+
+.formulaire{
+	width: 30em;
+	height: 30em;
+	margin-left: 20em;
+	border-size: 2px;
+	border-style: solid;
+	border-color: rgb(60,100,250);
+	margin-bottom: 1em;
+	padding-left: 14px;
+	color: white;
+	font-size: 18px;
+	font-family: "Cambria Math";
+	background-color: rgba(60,100,250, 0.8);
+}
+
+td{
+	border: 1px solid black;
+}
+
+table{
+	width: 22em;
+	border-collapse: collapse;
+	height: 10em;
+	font-size: 15px;
+}
+
+.Box3{
+
+	width: 70em;
+	height: 23em;
+	background-color: rgb(60,100,250);
+	margin-bottom: 7em;
+	margin-top: 2em;
+}
+
+.line1{
+	background-color: rgb(60,100,250);
+	color: white;
+}
+
+.input1,.input2,.input3,.input4{
+	width: 30em;
+	height: 2em;
+
+}
+
+.input5{
+	width: 34.5em;
+	height: 9em;
+}
+
+.input6{
+	width: 30em;
+	height: 2.5em;
+	text-align: center;
+	background-color: silver;
+
+}
+
+input{
+	border-bottom: 2.5px;
+	border-style: groove;
+}
+
+.b2{
+	height: 4em;
+	color: white;
+	font-size: 14px;
+	padding-left: 66em;
+	background-color: rgb(90,120,200);
+}
+
+
+/*quatrieme page, A propos*/
+
+.boxx2{
+	width: 15em;
+	height: 67em;
+	margin-left: 41em;
+	margin-top: 5px;
+	font-size: 22px;
+	text-align: justify;
+
+}
+
+.Boxx3{
+	width: 66em;
+	height: 23em;
+	background-color: rgb(60,100,250);
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+.b33{
+	height: 2.5em;
+	color: white;
+	font-size: 14px;
+	padding-left: 62em;
+	background-color: rgb(90,120,200);
+}
+
+.fin3 a{
+
+	text-decoration: none;
+	width: 50em;
+	height: 1em;
+	color: white;
+	background-color: rgb(60,100,250);
+	margin-left: 3em;
+}
+
+/*brouillon*/
+
+.boxs{
+	display: flex;
+	flex-direction: row;
+}
+
+.un{
+	background: red;
+	height: 12em;
+	margin: 10px;
+	width:20em;
+}
+
+.deux{
+	background: yellow;
+	height: 2em;
+	margin: 10px;
+	width:50px;
+}
